@@ -3,4 +3,4 @@ A small python script for making DOS attacks
 
 ## USGAGE
 
-      python3 dos.py http://example.com
+      python3 DOSattacker.py http://example.com
